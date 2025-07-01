@@ -2,11 +2,11 @@
 
 ![](./screenshot.png)
 
-[To see my solution, click here! 😉](https://interactive-rating-component-cs.netlify.app/)
+[To see my solution, click here! 😉](https://interactive-rating-challenge-wine.vercel.app/)
 
 ## 👩‍💻 The challenge
 
-Your challenge is to build out this interactive rating component and get it looking as close to the design as possible.
+Your challenge is to build out [this interactive rating component](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI) and get it looking as close to the design as possible.
 
 Your users should be able to:
 
@@ -18,8 +18,9 @@ Your users should be able to:
 ## 🚀 Technologies
 
 - Vite as build tool
-- React for UI
 - TypeScript for typesafety (not really needed, but ok)
+- React for UI
+- Tailwind CSS for styling
 - shadcn/ui for UI components
 
 ## 💻 Getting started
